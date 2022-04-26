@@ -1,0 +1,6 @@
+C:\Users\tudva\source\repos\MathTaskClassModule\MathTaskClassModule\bin\Debug\MathTaskClassModule.dll
+C:\Users\tudva\source\repos\MathTaskClassModule\MathTaskClassModule\bin\Debug\MathTaskClassModule.pdb
+C:\Users\tudva\source\repos\MathTaskClassModule\MathTaskClassModule\obj\Debug\MathTaskClassModule.csproj.AssemblyReference.cache
+C:\Users\tudva\source\repos\MathTaskClassModule\MathTaskClassModule\obj\Debug\MathTaskClassModule.csproj.CoreCompileInputs.cache
+C:\Users\tudva\source\repos\MathTaskClassModule\MathTaskClassModule\obj\Debug\MathTaskClassModule.dll
+C:\Users\tudva\source\repos\MathTaskClassModule\MathTaskClassModule\obj\Debug\MathTaskClassModule.pdb
